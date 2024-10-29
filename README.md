@@ -14,7 +14,8 @@ I’m currently a software engineer, diving deep into data science and machine l
 - **LinkedIn**: [Austin Babu](http://www.linkedin.com/in/austin-t-babu/)
 - **Portfolio**: [austintbabu.vercel.app](https://austintbabu.vercel.app/)
 - **Email**: austintbabu@gmail.com
-                                                                                                                                       
+
+ <pre>                                                                                                                                   
                   `;|B$$$$$$$$$$$$$$$$$$$$$$I           .    .          '@$$$$$$$$$$$$$$$$$$$$$$r>^.                                  
                       ^{B$$$$$$$$$$$$$$$$$$$@^          ~"'''t         '*$$$$$$$$$$$$$$$$$$$$r,.                                      
                          .<%$$$$$$$$$$$$$$$$$$$(,'.     f$$$$@.    .'"-%$$$$$$$$$$$$$$$$$$$('                                         
@@ -28,7 +29,8 @@ I’m currently a software engineer, diving deep into data science and machine l
                                                      ']B$$$$$$$f^                                                                     
                                                        .($$$$c`                                                                       
                                                          :$$)                                                                         
-                                                          l}                                                                           
+                                                          l}
+  </pre>
 
 
 
