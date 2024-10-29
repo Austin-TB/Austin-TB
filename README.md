@@ -1,4 +1,4 @@
-# Hello! I’m Austin T Babu
+# Hello👋. I’m Austin.
 
 Welcome to my GitHub page. Here, you’ll find projects that combine deep learning, web development, and the subtle art of solving complex data problems.
 
@@ -14,5 +14,3 @@ I’m currently a software engineer, diving deep into data science and machine l
 - **LinkedIn**: [Austin Babu](http://www.linkedin.com/in/austin-t-babu/)
 - **Portfolio**: [austintbabu.vercel.app](https://austintbabu.vercel.app/)
 - **Email**: austintbabu@gmail.com
-
-I’m always open to connecting and collaborating on new ideas or discussing how tech can be used to make a difference—especially if you enjoy a good challenge. 
