@@ -16,9 +16,8 @@ I’m currently a software engineer, diving deep into data science and machine l
 - **Email**: austintbabu@gmail.com
                                                                                                                                        
                                                                                                                                                       
-
-
-                                   ;|B$$$$$$$$$$$$$$$$$$$$$$I          .    .          '@$$$$$$$$$$$$$$$$$$$$$$r>^.                                  
+<pre>
+                                   `;|B$$$$$$$$$$$$$$$$$$$$$$I          .    .          '@$$$$$$$$$$$$$$$$$$$$$$r>^.                                  
                                        ^{B$$$$$$$$$$$$$$$$$$$@^         ~"'''t         '*$$$$$$$$$$$$$$$$$$$$r,.                                      
                                          .<%$$$$$$$$$$$$$$$$$$$(,'.     f$$$$@.    .'"-%$$$$$$$$$$$$$$$$$$$('                                         
                                            .r$$$$$$$$$$$$$$$$$$$$$$$8*z&$$$$$$BzzW@$$$$$$$$$$$$$$$$$$$$$$&^                                           
@@ -32,7 +31,10 @@ I’m currently a software engineer, diving deep into data science and machine l
                                                                        .($$$$c`                                                                       
                                                                          :$$)                                                                         
                                                                           l}                                                                          
-                                                                                                                                                      
+</pre>
+
+
+
                                                                                                                                                       
                                                                                                                                                       
                                                                                                                                                       
