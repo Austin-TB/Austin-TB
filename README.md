@@ -16,23 +16,8 @@ I’m currently a software engineer, diving deep into data science and machine l
 - **Email**: austintbabu@gmail.com
                                                                                                                                        
                                                                                                                                                       
-                                                                                                                                                      
-                                                                                                                                                      
-                                                                                                                                                      
-                                                                                                                                                      
-                                                                                                                                                      
-                                                                                                                                                      
-                                                                                                                                                      
-                                                                                                                                                      
-                                                                                                                                                      
-                                                                                                                                                      
-                                                                                                                                                      
-                                                                                                                                                      
-                                                                                                                                                      
-                                                                                                                                                      
-                                                                                                                                                      
-                                                                                                                                                      
-                                                                                                                                                                            
+
+
                                    `;|B$$$$$$$$$$$$$$$$$$$$$$I          .    .          '@$$$$$$$$$$$$$$$$$$$$$$r>^.                                  
                                        ^{B$$$$$$$$$$$$$$$$$$$@^         ~"'''t         '*$$$$$$$$$$$$$$$$$$$$r,.                                      
                                          .<%$$$$$$$$$$$$$$$$$$$(,'.     f$$$$@.    .'"-%$$$$$$$$$$$$$$$$$$$('                                         
@@ -47,8 +32,6 @@ I’m currently a software engineer, diving deep into data science and machine l
                                                                        .($$$$c`                                                                       
                                                                          :$$)                                                                         
                                                                           l}                                                                          
-                                                                                                                                                      
-                                                                                                                                                      
                                                                                                                                                       
                                                                                                                                                       
                                                                                                                                                       
