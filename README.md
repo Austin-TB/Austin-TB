@@ -22,38 +22,7 @@ I'm a Software Engineer passionate about Machine Learning, Design and Web Develo
 **ML & AI:** PyTorch, TensorFlow, Scikit-Learn  
 **Web Development:** React (CRA, Vite), FastAPI, JavaScript  
 **Databases:** MongoDB, SQL  
-**Tools:** Git, CI/CD, APIs, Tableau  
-
----
-
-## Work Experience  
-
-### Associate Software Engineer – UVJ Technologies (9/2024 - Present)  
-- Firmware development for medical devices on TMS320 DSP Chip (C++)  
-- Improved robot calibration success rate by 66% through algorithmic optimizations  
-- Developed a No-Code AutoML Web App using React Native and FastAPI  
-
-### Data Science Intern – Kavida AI (3/2024 - 7/2024)  
-- Optimized keyword extraction using KeyBERT, reducing processing time by 85%  
-- Implemented LLM-based risk assessment to filter irrelevant news articles by 40%  
-
----
-
-## Featured Projects  
-
-### Synthetic Data Generation for DR Diagnosis  
-- Developed a GAN-based model using PyTorch to generate synthetic diabetic retinopathy scans  
-- Achieved 91% match accuracy with real scans  
-
-### MyGPT – Custom LLM  
-- Built a GPT-based language model from scratch using PyTorch  
-- Trained on OpenWebTextCorpus to generate human-like text responses  
-
-### To-Do List Web App [Live](https://austin-tb.github.io/To-Do-List/)  
-- A task management web app with deadline tracking  
-- Features CRUD operations and date-based organization  
-
----
+**Tools:** Git, CI/CD, APIs  
 
 ## Let's Connect  
 
