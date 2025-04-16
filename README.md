@@ -6,8 +6,7 @@
 
 ## About Me  
 
-I build practical ML projects, apps and websites. I like UI Designing (still learning tho), 3D(BLender), Digital Illustrations(Adobe Illustrator, ProCreate)
-
+I build practical ML projects, apps and websites. I like UI Designing (still learning tho), 3D(BLender) and Digital Illustrations(Adobe Illustrator, ProCreate).
 ### My Interests 
 - AI/ML & Deep Learning (PyTorch, TensorFlow)
 - Development (React, FastAPI)
@@ -33,7 +32,7 @@ I build practical ML projects, apps and websites. I like UI Designing (still lea
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Austin-TB&layout=compact&theme=dark" alt="Top Languages" height="192"/>
 </div>
 
-## Let's Connect  
+## HMU  
 
 **Email:** [austintbabu@gmail.com](mailto:austintbabu@gmail.com)  
 **Portfolio:** [austintbabu.vercel.app](https://austintbabu.vercel.app/)  
