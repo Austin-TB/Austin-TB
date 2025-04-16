@@ -6,13 +6,12 @@
 
 ## About Me  
 
-I'm a Software Engineer passionate about Machine Learning, Design and Web Development. I love building AI-powered solutions, optimizing performance, and creating real-world impact through cutting-edge technology.  
+I build practical ML projects, apps and websites. I like UI Designing (still learning tho), 3D(BLender), Digital Illustrations(Adobe Illustrator, ProCreate)
 
-### Key Interests  
-- AI/ML & Deep Learning (PyTorch, TensorFlow)  
-- Web Development (React, FastAPI)  
-- Embedded Systems (C++, DSP Firmware)  
-- Data Science & Automation  
+### My Interests 
+- AI/ML & Deep Learning (PyTorch, TensorFlow)
+- Development (React, FastAPI)
+- Data Science & Automation
 
 ---
 ## Tech Stack
