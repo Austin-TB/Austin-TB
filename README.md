@@ -28,7 +28,6 @@ I build practical ML projects, apps and websites. I like UI Designing (still lea
 ## GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Austin-TB&show_icons=true&theme=dark" alt="GitHub Stats" height="192"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Austin-TB&layout=compact&theme=dark" alt="Top Languages" height="192"/>
 </div>
 
