@@ -21,7 +21,7 @@ I build practical ML projects, apps and websites. I like UI Designing (still lea
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
   <img src="https://img.shields.io/badge/LangChain-00A2D7?style=for-the-badge" alt="LangChain"/>
-  <img src="https://img.shields.io/badge/fastAPI0078D7?style=for-the-badge" alt="API Development"/>
+  <img src="https://img.shields.io/badge/fastAPI-0078D7?style=for-the-badge" alt="API Development"/>
   <img src="https://img.shields.io/badge/MCP-512BD4?style=for-the-badge" alt="MCP-Development"/>
   <img src="https://img.shields.io/badge/Figma-339933?style=for-the-badge&logo=figma&logoColor=white" alt="Node.js"/>
 </p>
