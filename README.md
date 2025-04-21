@@ -1,7 +1,7 @@
 # Austin T Babu – Software Engineer  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin)](http://www.linkedin.com/in/austin-t-babu/)  
-[![GitHub](https://img.shields.io/badge/GitHub-Portfolio-black?style=flat&logo=github)](https://github.com/Austin-TB)  
+[![GitHub](https://img.shields.io/badge/GitHub-Portfolio-white?style=flat&logo=github)](https://github.com/Austin-TB)  
 [![Website](https://img.shields.io/badge/Portfolio-Live-brightgreen?style=flat&logo=vercel)](https://austintbabu.vercel.app/)  
 
 ## About Me  
