@@ -35,7 +35,7 @@ I build practical ML projects, apps and websites. I like UI Designing (still lea
 ## HMU  
 
 **Email:** [austintbabu@gmail.com](mailto:austintbabu@gmail.com)  
-**Portfolio:** [austintbabu.vercel.app](https://austintbabu.com)
+**Portfolio:** [austintbabu.com](https://austintbabu.com)
 **GitHub:** [Austin-TB](https://github.com/Austin-TB)  
 **LinkedIn:** [Austin T Babu](http://www.linkedin.com/in/austin-t-babu/)  
 
