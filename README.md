@@ -6,7 +6,7 @@
 
 ## About Me  
 
-I build practical ML projects, apps and websites. I like UI Designing (still learning tho), 3D(BLender) and Digital Illustrations(Adobe Illustrator, ProCreate).
+I build scalable ML projects and applied AI applications.
 ### My Interests 
 - AI/ML & Deep Learning (PyTorch, TensorFlow)
 - Development (React, FastAPI)
